@@ -1,0 +1,2 @@
+model/venv/lib/python3.9/site-packages/xgboost/lib/libxgboost.so filter=lfs diff=lfs merge=lfs -text
+model/venv/lib/python3.9/site-packages/nvidia/nccl/lib/libnccl.so.2 filter=lfs diff=lfs merge=lfs -text
